@@ -1,2 +1,2 @@
-Java file
+Golang file
 new changes
